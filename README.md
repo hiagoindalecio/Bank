@@ -4,4 +4,4 @@ Projeto de aplicação em console desenvolvida utilizando java, o software simul
 
 # Tecnologia 👨‍💻
 
-Java
+* Java ☕
